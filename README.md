@@ -1,1 +1,1 @@
-# imequ
+I use online OpenCV libraries for color space conversion from RGB to HSI, RGB to HSV and RBG to YCbCr. Then, I equalize the histograms of the images respect to a single vector. Lastly, I convert the color space back to RBG and save each image. This resulted in an increase in the contrast of this image.
